@@ -1,6 +1,6 @@
 # Swarm Agent
 
-A multi-agent system that finds and formats recipes using Azure OpenAI and web scraping capabilities.
+A multi-agent system that finds and formats recipes and news articles using Azure OpenAI and web scraping capabilities.
 
 ## Overview
 
