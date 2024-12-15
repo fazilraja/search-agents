@@ -1,0 +1,9 @@
+crewai
+crewai-tools
+beautifulsoup4
+google-api-python-client
+requests
+typing-extensions
+python-dotenv
+openai
+litellm>=1.0.0
